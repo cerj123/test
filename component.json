@@ -1,0 +1,19 @@
+{
+  "name" : "copy-isarray",
+  "description" : "Array#isArray for older browsers",
+  "version" : "0.0.1",
+  "repository" : "cerj123/test",
+  "homepage": "https://github.com/cerj123/test",
+  "main" : "index.js",
+  "scripts" : [
+    "index.js"
+  ],
+  "dependencies" : {},
+  "keywords": ["browser","copy-isarray","array"],
+  "author": {
+    "name": "1",
+    "email": "2",
+    "url": "3"
+  },
+  "license": "MIT"
+}
