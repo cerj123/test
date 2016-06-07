@@ -1,0 +1,47 @@
+{
+  "name": "copy-isarray",
+  "description": "Array#isArray for older browsers",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cerj123/test.git"
+  },
+  "homepage": "https://github.com/cerj123/test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.13.4"
+  },
+  "keywords": [
+    "browser",
+    "copy-isarray",
+    "array"
+  ],
+  "author": {
+    "name": "1",
+    "email": "2",
+    "url": "3"
+  },
+  "license": "MIT",
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/17..latest",
+      "firefox/nightly",
+      "chrome/22..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  },
+  "scripts": {
+    "test": "tape test.js"
+  }
+}
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
